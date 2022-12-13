@@ -1,3 +1,41 @@
-body {
-
+body{
+  background-color:#05668D;
+}
+h2{
+  color:#F0F3BD;
+  font-size:275%;
+  letter-spacing: 5px;
+  text-decoration: underline;
+}
+p{
+  color: #B5E7B5;
+  font-size: 200%;
+}
+img{
+  border: dotted #416a80 5px;
+  height: 25%;
+  width: 25%;
+}
+iframe{
+  border: dashed #e63946
+}
+ul{
+  list-style-type: none;
+  text-align: left;
+  position: fixed;
+}
+li{
+  float: left;
+}
+li a{
+  padding:25px;
+  font-family:"Comic Sans", Fantasy;
+  color: #EBF2FA;
+  border-style: solid;
+  border-color: #FFFFFF;
+  text-decoration-line: none;
+}
+li a:hover{
+  background-color: black;
+  color: white;
 }
