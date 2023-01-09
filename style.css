@@ -1,28 +1,29 @@
 body{
-  background-color:#05668D;
+  background-color:#D7F2BA;
 }
 h2{
-  color:#F0F3BD;
+  color:#676F54;
   font-size:275%;
   letter-spacing: 5px;
   text-decoration: underline;
 }
 p{
-  color: #B5E7B5;
+  color: #829B78;
   font-size: 200%;
 }
 img{
-  border: dotted #416a80 5px;
+  border: dotted #ADD5A2 5px;
   height: 25%;
   width: 25%;
 }
 iframe{
-  border: dashed #e63946
+  border: dashed #9CC69B
 }
 ul{
   list-style-type: none;
   text-align: left;
   position: fixed;
+  background-color: black
 }
 li{
   float: left;
