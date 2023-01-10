@@ -1,23 +1,20 @@
 body{
   background-color: #D7F2BA;
 }
-h2{
-  color: #676F54;
-  font-size; 275%
-  letter-spacing: 5px;
-  text-decoration: underline;
-}
 p{
   color: #829B78;
   font-size: 200%;
+}
+h2{
+  color: #676F54;
+  font-size: 275%;
+  letter-spacing: 5px;
+  text-decoration: underline;
 }
 img{
   border: dotted #ADD5A2 5px;
   height: 25%;
   width: 25%;
-}
-iframe{
-  border: dashed #9CC69B
 }
 ul{
   list-style-type: none;
@@ -39,4 +36,4 @@ li a{
 li a:hover{
   background-color: black;
   color: white;
-}               
+}
