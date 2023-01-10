@@ -1,38 +1,39 @@
 body{
-  background-color: #FFFFFF;
-}
-h2{
-  letter-spacing: 3px;
-  color: #568EA3;
+  background-color: #D7F2BA;
 }
 p{
-  text-decoration-line: underline;
-  text-decoration-style: wavy;
-  letter-spacing: 1px;
-  color: #68C3D4;
+  color: #829B78;
+  font-size: 200%;
+}
+h2{
+  color: #676F54;
+  font-size: 275%;
+  letter-spacing: 5px;
+  text-decoration: underline;
 }
 img{
-  border: dotted solid double;
-  height: 14%;
-  width: 14%;
-  border-color: #FFE8D1;
+  border: dotted #ADD5A2 5px;
+  height: 25%;
+  width: 25%;
 }
 ul{
+  list-style-type: none;
   text-align: left;
+  position: fixed;
+  background-color: black
 }
 li{
   float: left;
 }
 li a{
-  padding:35px;
-  font-family:"Times New Roman", monoscape;
-  color: #426E66;
+  padding:25px;
+  font-family:"Comic Sans", Fantasy;
+  color: #EBF2FA;
   border-style: solid;
-  border-color: #15616D;
+  border-color: #FFFFFF;
   text-decoration-line: none;
 }
 li a:hover{
   background-color: black;
   color: white;
-  border-color: #FFFFFF
-}
+}               
