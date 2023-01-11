@@ -17,7 +17,9 @@ img{
   border-color: #B69562;
 }
 ul{
+  list-style-type: none;
   text-align: left;
+  position: fixed;
 }
 li{
   float: left;
