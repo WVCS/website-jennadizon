@@ -1,0 +1,38 @@
+body{
+  background-color: #FFFFFF;
+}
+h2{
+  letter-spacing: 3px;
+  color: #568EA3;
+}
+p{
+  text-decoration-line: underline;
+  text-decoration-style: wavy;
+  letter-spacing: 1px;
+  color: #68C3D4;
+}
+img{
+  border: dotted solid double;
+  height: 14%;
+  width: 14%;
+  border-color: #FFE8D1;
+}
+ul{
+  text-align: left;
+}
+li{
+  float: left;
+}
+li a{
+  padding:35px;
+  font-family:"Times New Roman", monoscape;
+  color: #426E66;
+  border-style: solid;
+  border-color: #15616D;
+  text-decoration-line: none;
+}
+li a:hover{
+  background-color: black;
+  color: white;
+  border-color: #FFFFFF
+}
