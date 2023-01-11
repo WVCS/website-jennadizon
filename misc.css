@@ -1,1 +1,37 @@
-
+body{
+  background-color: #EFDABA;
+}
+h2{
+  color: #352208;
+}
+p{
+  text-decoration-line: underline;
+  text-decoration-style00000000: wavy;
+  letter-spacing: 2px;
+  color: #685634;
+}
+img{
+  border: ridge;
+  height: 35%;
+  width: 35%;
+  border-color: #B69562;
+}
+ul{
+  text-align: left;
+}
+li{
+  float: left;
+}
+li a{
+  padding:35px;
+  font-family:"Times New Roman", monoscape;
+  color: #A89170;
+  border-style: solid;
+  border-color: #8F754F;
+  text-decoration-line: none;
+}
+li a:hover{
+  background-color: black;
+  color: white;
+  border-color: #EFDABA
+}
